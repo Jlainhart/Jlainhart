@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating videos games
 - 🌱 I’m currently learning C# and 3D modeling
 - 💞️ I’m looking to collaborate on anything if anyone needs grunt work
-- 📫 How to reach <a href="www.linkedin.com/in/jedadiah-lainhart">Linkedin</a>  <a href="url">link text</a>
+- 📫 How to reach <a href="https://www.linkedin.com/in/jedadiah-lainhart/">Linkedin</a>  
 
 <!---
 Jlainhart/Jlainhart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
